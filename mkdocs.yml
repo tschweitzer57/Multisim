@@ -1,4 +1,4 @@
-site_name: Colosseum
+site_name: Multisim
 site_dir: build_docs
 repo_url: https://github.com/CodexLabsLLC/Colosseum
 site_description: 'Open source simulator based on Unreal Engine for autonomous vehicles from Codex Labs'

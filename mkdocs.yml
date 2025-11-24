@@ -1,7 +1,7 @@
 site_name: Multisim
 site_dir: build_docs
-repo_url: https://github.com/CodexLabsLLC/Colosseum
-site_description: 'Open source simulator based on Unreal Engine for autonomous vehicles from Codex Labs'
+repo_url: https://github.com/tschweitzer57/Multisim
+site_description: 'Open source simulator based on Unreal Engine for autonomous vehicles'
 
 markdown_extensions:
     - toc:
@@ -19,7 +19,7 @@ theme:
 
 extra:
   highlightjs: true
-  version: master
+  version: main
   feature:
       tabs: true
   palette:
